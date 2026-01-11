@@ -34,6 +34,10 @@ body {
     cursor: default;
 }
 
+body:has(#two-fa.expand) {
+  overflow: hidden;
+}
+
 #bookmark-container:has(#two-fa.expand) .container {
     opacity: 0;
     visibility: hidden;
