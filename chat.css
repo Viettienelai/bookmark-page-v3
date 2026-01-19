@@ -129,8 +129,7 @@
   max-width: 670px;
   padding: 12px 18px; /* Tăng nhẹ padding trên dưới để Markdown thoáng hơn */
   box-sizing: border-box;
-  border-radius: 200px;
-  corner-shape: squircle;
+  border-radius: 20px;
   background: #D3E3FD;
   font-size: 16px;
   line-height: 1.5;
