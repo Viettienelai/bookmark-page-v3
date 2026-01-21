@@ -9,11 +9,7 @@
   background-color: white;
   backdrop-filter: blur(20px);
   z-index: 20;
-  transition: transform .4s cubic-bezier(0.175, 0.885, 0.32, 3.5),
-    width 1s cubic-bezier(0.175, 0.885, 0.32, 1.1),
-    height 1s cubic-bezier(0.175, 0.885, 0.32, 1.1),
-    top 1s ease-in-out,
-    right 1s ease-in-out;
+  transition: all 0.8s cubic-bezier(0.175, 0.885, 0.32, 1);
   cursor: pointer;
   overflow: hidden;
 }
@@ -30,11 +26,7 @@
   border-radius: 100px;
   corner-shape: squircle;
   backdrop-filter: blur(20px);
-  transition:
-    top 1s cubic-bezier(0.175, 0.885, 0.32, 1.1),
-    right 1s cubic-bezier(0.175, 0.885, 0.32, 1.1),
-    height 1s ease-in-out,
-    width 1s ease-in-out;
+  transition: all 0.8s cubic-bezier(0.175, 0.885, 0.32, 1);
   cursor: default;
 }
 
