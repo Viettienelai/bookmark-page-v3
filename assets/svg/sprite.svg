@@ -215,6 +215,11 @@
     <circle cy="300" cx="300" fill="#fff" r="152"/>
     <rect transform="rotate(45 152.445 154.523)" rx="16" height="90" width="310" y="107" x="30" fill="#e05745"/>
   </symbol>
+  <symbol id="cobalt" viewBox="0 0 128 128">
+    <rect width="128" height="128" rx="32"/>
+    <path d="M52.92 63.85 21 46.148V35l46 25.51v6.679l-46 25.51V81.552z" fill="#fff"/>
+    <path d="M92.92 63.85 61 46.148V35l46 25.51v6.679l-46 25.51V81.552z" fill="#fff"/>
+  </symbol>
   <symbol id="stackedit" viewBox="0 0 160 160">
     <path d="M159.997 40.003c0-22.076-17.923-39.999-39.999-39.999H39.999C17.923.004 0 17.927 0 40.003v79.998C0 142.077 17.923 160 39.999 160h79.999c22.076 0 39.999-17.923 39.999-39.999z" style="fill:none"/>
     <clipPath id="stackedita">
