@@ -220,42 +220,6 @@
     <path d="M52.92 63.85 21 46.148V35l46 25.51v6.679l-46 25.51V81.552z" fill="#fff"/>
     <path d="M92.92 63.85 61 46.148V35l46 25.51v6.679l-46 25.51V81.552z" fill="#fff"/>
   </symbol>
-  <symbol id="stackedit" viewBox="0 0 160 160">
-    <path d="M159.997 40.003c0-22.076-17.923-39.999-39.999-39.999H39.999C17.923.004 0 17.927 0 40.003v79.998C0 142.077 17.923 160 39.999 160h79.999c22.076 0 39.999-17.923 39.999-39.999z" style="fill:none"/>
-    <clipPath id="stackedita">
-      <path d="M159.997 40.003c0-22.076-17.923-39.999-39.999-39.999H39.999C17.923.004 0 17.927 0 40.003v79.998C0 142.077 17.923 160 39.999 160h79.999c22.076 0 39.999-17.923 39.999-39.999z"/>
-    </clipPath>
-    <g clip-path="url(#stackedita)">
-      <path d="M159.997.004H-.017L79.99 80.011z" style="fill:gold"/>
-      <path d="M-.017.004v160.014L79.99 80.01z" style="fill:#a5c700"/>
-      <path d="M-.017 160.018h160.014L79.99 80.011z" style="fill:#ff8a00"/>
-      <path d="M159.997 160.018V.004L79.99 80.011z" style="fill:#66aefd"/>
-      <path d="M149.996-9.997 79.99 59.991l20.002 20.02 70.006-70.007z" style="fill:url(#stackeditb)"/>
-      <path d="m170.006 150.017-69.988-70.006-20.02 20.002 70.007 70.006z" style="fill:url(#stackeditc)"/>
-      <path d="m9.983 170.01 70.007-69.989-20.002-20.019-70.006 70.006z" style="fill:url(#stackeditd)"/>
-      <path d="M-10.018 10.004 59.97 80.011l20.02-20.002L9.984-9.997z" style="fill:url(#stackedite)"/>
-    </g>
-    <path d="M145.013 39.006c0-14.636-11.883-26.519-26.519-26.519H41.52c-14.636 0-26.519 11.883-26.519 26.519v76.974c0 14.636 11.883 26.518 26.519 26.518h76.974c14.636 0 26.519-11.882 26.519-26.518z" style="fill:#fff"/>
-    <path d="M30.89 40.077h9.135V27.885h9.323v12.192H60.66V27.885h9.323v12.192h9.136v11.272h-9.136V64.03h9.136v11.272h-9.136v12.192H60.66V75.302H49.348v12.192h-9.323V75.302H30.89V64.03h9.135V51.349H30.89zm18.458 11.272V64.03H60.66V51.349z" style="fill:#737373"/>
-    <defs>
-      <linearGradient id="stackeditb" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="rotate(-135 84.142 -23.134)scale(28.2866)">
-        <stop offset="0" style="stop-color:#66aefd;stop-opacity:1"/>
-        <stop offset="1" style="stop-color:gold;stop-opacity:1"/>
-      </linearGradient>
-      <linearGradient id="stackeditc" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="rotate(-45 263.163 -88.993)scale(28.2866)">
-        <stop offset="0" style="stop-color:#ff8a00;stop-opacity:1"/>
-        <stop offset="1" style="stop-color:#66aefd;stop-opacity:1"/>
-      </linearGradient>
-      <linearGradient id="stackeditd" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="rotate(45 -169.01 69.983)scale(28.2866)">
-        <stop offset="0" style="stop-color:#a5c700;stop-opacity:1"/>
-        <stop offset="1" style="stop-color:#ff8a00;stop-opacity:1"/>
-      </linearGradient>
-      <linearGradient id="stackedite" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="rotate(135 9.992 4.14)scale(28.2866)">
-        <stop offset="0" style="stop-color:gold;stop-opacity:1"/>
-        <stop offset="1" style="stop-color:#a5c700;stop-opacity:1"/>
-      </linearGradient>
-    </defs>
-  </symbol>
   <symbol id="squoosh" viewBox="0 0 81 81">
     <g transform="translate(4 3.7)">
       <circle cx="36.5" cy="36.8" r="37" fill="#40403F" stroke="#4A494A" stroke-width="7"/>
